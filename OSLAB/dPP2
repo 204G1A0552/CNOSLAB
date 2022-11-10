@@ -1,0 +1,7 @@
+<pre>Enter no of jobs: 2
+Enter name and time: S 3
+Enter name and time: G 4
+Enter the available resources:20
+SGSafe sequence is:S 3
+G 4
+<font color="#26A269"><b>srit@srit-HP-Pro-3090-MT</b></font></pre>
