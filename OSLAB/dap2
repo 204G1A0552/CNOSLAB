@@ -1,0 +1,14 @@
+<pre>Enter the no. of processes and resources:1 2
+Enter the claim matrix:
+2 3
+Enter the allocation matrix:
+4 8
+Resource vector:5 3
+All the resources can be allocated to Process 1
+
+Available resources are:   5   3
+
+Process 1 executed?:y 
+
+ System is in safe mode
+ The given state is safe state<font color="#26A269"><b>srit@srit-HP-Pro-3090-MT</b></font></pre>
