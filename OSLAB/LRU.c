@@ -5,14 +5,14 @@
    Date of Execution: 28-11-2022
 */
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 int fr[3];
-void main()
+int main()
 {
 void display();
 int p[12]={2,3,2,1,5,2,4,5,3,2,5,2},i,j,fs[3];
 int index,k,l,flag1=0,flag2=0,pf=0,frsize=3;
-clrscr();
+//clrscr();
 for(i=0;i<3;i++)
 {
 fr[i]=-1;
@@ -61,7 +61,8 @@ pf++;
 display();
 }
 printf("\n no of page faults :%d",pf+frsize);
-getch();
+//getch();
+return 0;
 }
 
 void display()
